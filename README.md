@@ -15,6 +15,5 @@ Files
 
 Changelog
 ----
-+ included the 1200px page Spring 2014
-+ first respository 2014.06.20
-+ 
+* included the 1200px page Spring 2014
+* first respository 2014.06.20
